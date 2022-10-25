@@ -21,6 +21,7 @@ EXPOSE 80
 USER root
 CMD ["nginx", "-g", "daemon off;"]
 
+
 #Test Change
 #multi Stage
 # # STAGE 1
